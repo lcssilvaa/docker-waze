@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Bancos locais (os projetos guardam dados em volumes Docker, não aqui)
+*.db
+
+# Editores e sistema
+.vscode/
+.idea/
+.DS_Store
